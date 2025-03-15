@@ -50,7 +50,7 @@ class Profile extends StatelessWidget {
                 const SizedBox(height: 16),
                 Text(name, style: const TextStyle(fontSize: 24 ,fontWeight: FontWeight.bold),),
                 const SizedBox(height: 8),
-                Text(position, style: const TextStyle(fontSize: 15 ,fontWeight: FontWeight.w100 , color: Colors.grey),),
+                  
                 const SizedBox(height: 8),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
